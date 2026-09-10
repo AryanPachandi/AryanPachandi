@@ -111,16 +111,63 @@ fun_fact:         "I enjoy optimizing sites more than building them —
 ## 🏆 &nbsp;Trophy Case
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AryanPachandi&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
+<img src="https://github-profile-trophy-winning.vercel.app/?username=AryanPachandi&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
 </div>
+
+<!--
+  The official github-profile-trophy.vercel.app deployment has been paused
+  by its maintainer (cost reasons — see github.com/ryo-ma/github-profile-trophy).
+  The URL above points to a volunteer-run mirror instead. If it also goes
+  down, other mirrors are listed on that repo's README, or self-host your
+  own instance for full reliability.
+-->
 
 <br/>
 
-## 🧵 &nbsp;Top Contributed Repos
+## 🧵 &nbsp;Featured Work
 
-<div align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=AryanPachandi&limit=5&theme=radical&combine_all_yearly_contributions=true" />
-</div>
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**[LocalDevOS](https://github.com/AryanPachandi/localdevOS)**
+<br/>
+Local-first AI developer agent with an Electron UI — planner, model router, executor and verifier stages, plus filesystem/Git/Docker tools and a task-graph orchestration layer.
+<br/>
+`TypeScript` `Electron` `Ollama`
+
+</td>
+<td width="50%" valign="top">
+
+**[pit](https://github.com/AryanPachandi/pit)**
+<br/>
+A from-scratch Java implementation of Git internals — content-addressed objects, SHA-1 hashing, tree/commit creation, and HTTP smart-protocol cloning with packfile reconstruction.
+<br/>
+`Java` `Git Internals` `Maven`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**CritIndia**
+<br/>
+Full-stack lead management and HR admin dashboard with a granular per-role, per-action permission system. Live at critindia.com.
+<br/>
+`Next.js` `Node.js` `MongoDB`
+
+</td>
+<td width="50%" valign="top">
+
+**Connecting Dots ERP**
+<br/>
+Next.js site for an SAP/IT training institute — performance-focused, with code-split mega-menus and server components.
+<br/>
+`Next.js` `Performance`
+
+</td>
+</tr>
+</table>
 
 <br/>
 
