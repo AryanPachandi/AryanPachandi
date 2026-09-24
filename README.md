@@ -8,10 +8,14 @@
 
 <br/>
 
+
+<p align="mid">
+<a href="https://aryanpachandi.me"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=A855F7&labelColor=0D1117" /></a>
 <a href="https://www.linkedin.com/in/aryan-pachandi-bb7b6822a/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=A855F7&labelColor=0D1117" /></a>
 <a href="https://www.instagram.com/aryan_pachandi/"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=A855F7&labelColor=0D1117" /></a>
 <a href="mailto:pachandiaryan@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=A855F7&labelColor=0D1117" /></a>
 <a href="https://github.com/AryanPachandi"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=A855F7&labelColor=0D1117" /></a>
+</p>
 
 </div>
 
